@@ -1,4 +1,4 @@
-# style-guide
+# Ura Creative
 
 Style Guide for the Ura Creative brand
 
