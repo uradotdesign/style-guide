@@ -2,8 +2,6 @@
 
 Style Guide for the Ura Creative brand
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-
 Here you can find the Source Files for the Ura Creative style guide. We created the repo to store our brand and to make it accessible by anyone. The use of the brand must followed our guidelines, which are part of this repo.
 
 If you like what we are doing, please support us on Patreon: https://www.patreon.com/ura
